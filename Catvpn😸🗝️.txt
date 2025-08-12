@@ -1,4 +1,4 @@
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560fp=chrome&security=tls#[ClocfareWarp] vless
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560fp=chrome&security=tls#ClocfareWarp
 vless://c57ab4c5-29b4-4b39-b3e5-94a2cd21fc4b@germany.node.service-free-connect.ru:4433?security=reality&type=tcp&headerType=&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=j4KLrYf5S24DtaQ16vOCfLRgUdVUR4_a0LSaAMtaWFw&sid=7373ce0e1bad35cb&spx=%2Fspecnet#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%286392863061%29
 vless://c57ab4c5-29b4-4b39-b3e5-94a2cd21fc4b@amsterdam.node.service-free-connect.ru:4433?security=reality&type=tcp&headerType=&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=j4KLrYf5S24DtaQ16vOCfLRgUdVUR4_a0LSaAMtaWFw&sid=7373ce0e1bad35cb&spx=%2Fspecnet#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam%20%286392863061%29
 vless://c57ab4c5-29b4-4b39-b3e5-94a2cd21fc4b@stockholm.node.service-free-connect.ru:4433?
