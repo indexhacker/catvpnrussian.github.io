@@ -4,3 +4,4 @@ https://indexhacker.github.io/catvpnrossian.github.io/Catvpn%F0%9F%98%B8%F0%9F%9
 Это надо скопировать 
 МНОГИЕ КОНФИГУРАЦИИ НЕ РАБОТАЮТ ПРОВЕРЯЙТЕ ПИНГ ЧЕРЕЗ ПРИОЖЕНИЕ Niddfly
 
+Есть сервера Clocfare Warp в росиии
