@@ -1,4 +1,4 @@
-https://github.com/Qazm56/catvpnrossian.github.io/
+Я ЗАПРЕЩАЮ ДЕЛАТЬ РЕКЛАМУ КАК МНЕ И ВАМ ВСЕМ!!!
 
 Всем привет это прокси для приожений v2 ray tun и niddfly
 минимум:https://indexhacker.github.io/catvpnrossian.github.io/CatvpnFree.txt
