@@ -1,5 +1,7 @@
 Я ЗАПРЕЩАЮ ДЕЛАТЬ РЕКЛАМУ КАК МНЕ И ВАМ ВСЕМ ПРО МОЙ VPN или PROXY!!!
 
+КОГДА БУДЕТЕ ПИСАТЬ НА ЭЛ.ПОЧТУ СНАЧАЛА ОТПРАВЛЯЙТЕ /start
+
 Всем привет это прокси для приожений v2 ray tun и niddfly
 минимум:https://indexhacker.github.io/catvpnrossian.github.io/CatvpnFree.txt
 
