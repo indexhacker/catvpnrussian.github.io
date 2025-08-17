@@ -1,3 +1,4 @@
+vless://f3e9d4b6-e364-49e8-9492-328fa001d427@4n1.vpnchikx.pro:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=bunny.net&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#vpnchik%20%40VPNchik_bot
 ss://YWVzLTEyOC1nY206MTAwODY%3D@153.121.43.183:10087#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%2013%2C%20Japan 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@rusrv.vmagnum.win:57456#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki%2C%2018%2C%20Finland 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki%2C%2018%2C%20Finland 
