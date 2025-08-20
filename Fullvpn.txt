@@ -1,3 +1,5 @@
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@31.43.179.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram
+trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id
 vless://6d5b50c8-3a08-4b63-b0b5-58a318e0d29c@64.188.70.165:443?security=reality&encryption=none&pbk=L7WlUVtfkwLvjjNHBx16GjTcwxw61HCp8yc_XM4t_iA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a1b2c3d4#%F0%9F%87%A9%F0%9F%87%AAPotato-DE6%20VLESS%20Reality
 vless://6d5b50c8-3a08-4b63-b0b5-58a318e0d29c@31.58.50.64:443?security=reality&encryption=none&pbk=uSSnXhuFV-kMsKYvTP3DiE__eTjK3a4avejc-xp7Ckw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a1b2c3d4#%F0%9F%87%BA%F0%9F%87%B8Potato-US2%20VLESS%20Reality
 vless://2cbcc594-3b8f-4671-8686-1820c9abdaf6@hield.ru:443?type=tcp&security=reality&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&fp=chrome&sni=yahoo.com&sid=06c6eb7423f24de5&spx=%2F&flow=xtls-rprx-vision#vless-z0o7ez3b-34-D
