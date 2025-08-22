@@ -16,3 +16,5 @@
 Почему надо нас выбрать быстро/шифрование/не блокированый/и на vless shandosks trojan/и очень много proxy
 
 <img width="1919" height="1079" alt="myvpnlistproxy" src="https://github.com/user-attachments/assets/6fca3f6b-0e6e-4c95-86d4-ec8cc36178bc" />
+
+Поддержка: https://t.me/free_connect_vpn_bot?start=6392863061
