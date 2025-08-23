@@ -1,7 +1,7 @@
 #profile-title: catvpnrossian
 #profile-title: base64:base64string
 #profile-update-interval: 1
-#subscription-userinfo: upload=455727941; download=6174315083; total=1073741824000; expire=1671815872
+#subscription-userinfo: upload=455727941; download=6174315083; total=1073741824000; expire=2544861304
 #support-url: https://github.com/indexhacker/catvpnrossian.github.io/
 #profile-web-page-url: https://raw.githubusercontent.com/indexhacker/catvpnrossian.github.io/refs/heads/main/help.txt
 vless://TrueVPN_61345636@v381104.hosted-by-vdsina.com:443?security=reality&encryption=none&pbk=drEqieftq_zHuOtUBfnaX4nIWsM0CZy5HI8jxqJ5dCo&headerType=none&fp=chrome&spx=%2F5iSzYNxHis9qokM&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com&sid=ffffffffff#TrueVPN_61345636_TrueVPN
