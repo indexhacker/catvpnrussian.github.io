@@ -28,3 +28,5 @@
 поддержка4: https://t.me/truevpnrus_bot?start=ref6392863061
 
 поддержка5: https://t.me/vpnfiksbot?start=6392863061
+
+подддержка6: https://t.me/vpn_spacev_bot?start=KT0WM
