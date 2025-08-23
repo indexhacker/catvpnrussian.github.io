@@ -31,4 +31,6 @@
 
 подддержка6: https://t.me/vpn_spacev_bot?start=KT0WM
 
+поддержка7: https://t.me/DureVpnBot?start=tJLJcCYoW
+
 поддердкой криптой системе ton: UQDdS3YT40aPceBsDHq6k7i434jGLFrvOFENfI4sUzoOhS9L
