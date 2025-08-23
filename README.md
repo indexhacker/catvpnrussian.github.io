@@ -30,3 +30,5 @@
 поддержка5: https://t.me/vpnfiksbot?start=6392863061
 
 подддержка6: https://t.me/vpn_spacev_bot?start=KT0WM
+
+поддердкой криптой системе ton: UQDdS3YT40aPceBsDHq6k7i434jGLFrvOFENfI4sUzoOhS9L
