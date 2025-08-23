@@ -1,3 +1,9 @@
+#profile-title: catvpnrossian
+#profile-title: base64:base64string
+#profile-update-interval: 1
+#subscription-userinfo: upload=455727941; download=6174315083; total=1073741824000; expire=1671815872
+#support-url: https://github.com/indexhacker/catvpnrossian.github.io/
+#profile-web-page-url: https://raw.githubusercontent.com/indexhacker/catvpnrossian.github.io/refs/heads/main/help.txt
 vless://TrueVPN_61345636@v381104.hosted-by-vdsina.com:443?security=reality&encryption=none&pbk=drEqieftq_zHuOtUBfnaX4nIWsM0CZy5HI8jxqJ5dCo&headerType=none&fp=chrome&spx=%2F5iSzYNxHis9qokM&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com&sid=ffffffffff#TrueVPN_61345636_TrueVPN
 vless://Vibe_77176703@146.103.112.12:443?type=tcp&security=reality&fp=firefox&pbk=rYGWYh_SZ36_zYB7ZL2ql6CCE6ZlcxJydZH0q-fMOkU&sni=whatsapp.com&sid=ffffffffff&spx=%2F#Vibe_77176703-🇳🇱Нидерланды
 vless://4717715b-442c-4c10-9d6c-b33caab6516e@91.228.155.80:53137?type=tcp&security=reality&pbk=L0HMJzPLD3hLovjrw37vkjQoYl8W_oGXlNY0ds1a9Hk&fp=chrome&sni=apple.com&sid=b866d79c&flow=xtls-rprx-vision&spx=%2F#6392863061_72486🇩🇪
