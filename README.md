@@ -26,3 +26,5 @@
 Поддержка3: https://t.me/vibevpntgbot?start=ref5231363734
 
 поддержка4: https://t.me/truevpnrus_bot?start=ref6392863061
+
+поддержка5: https://t.me/vpnfiksbot?start=6392863061
