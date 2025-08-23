@@ -1,3 +1,4 @@
+<img width="1747" height="191" alt="vpn2" src="https://github.com/user-attachments/assets/b6d68708-a5a0-4aa2-aa92-9faa65a0ed28" />
 Я ЗАПРЕЩАЮ ДЕЛАТЬ РЕКЛАМУ КАК МНЕ И ВАМ ВСЕМ ПРО МОЙ VPN или PROXY!!!
 
 КОГДА БУДЕТЕ ПИСАТЬ НА ЭЛ.ПОЧТУ СНАЧАЛА ОТПРАВЛЯЙТЕ /start
@@ -15,7 +16,7 @@
 
 Почему надо нас выбрать быстро/шифрование/не блокированый/и на vless shandosks trojan/и очень много proxy
 
-<img width="1919" height="1079" alt="myvpnlistproxy" src="https://github.com/user-attachments/assets/6fca3f6b-0e6e-4c95-86d4-ec8cc36178bc" />
+<img width="1919" height="1079" alt="myvpnlistproxy" src="https://github.com/user-attachments/assets/6fca3f6b-0e6e-4c95-86d4-ec8cc36178bc" />          для full имеется бесконечные гю и времини 
 
 Поддержка1: https://t.me/free_connect_vpn_bot?start=6392863061
 
