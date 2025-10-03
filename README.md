@@ -1,36 +1,6 @@
-<img width="1747" height="191" alt="vpn2" src="https://github.com/user-attachments/assets/b6d68708-a5a0-4aa2-aa92-9faa65a0ed28" />          для full имеется бесконечные гб и времини 
-
-Я ЗАПРЕЩАЮ ДЕЛАТЬ РЕКЛАМУ КАК МНЕ И ВАМ ВСЕМ ПРО МОЙ VPN или PROXY!!!
-
-КОГДА БУДЕТЕ ПИСАТЬ НА ЭЛ.ПОЧТУ СНАЧАЛА ОТПРАВЛЯЙТЕ /start
-
-Всем привет это прокси для приожений и niddfly ( V2RayTun и Hash и v2box)
-минимум:https://indexhacker.github.io/catvpnrossian.github.io/CatvpnFree.txt
-
-максимум:пишите для получиние на Эл,почту catvpnrossian@outlook.com
-
-бета:через эл,почту  catvpnrossian@outlook.com
-
-Инструктия:
-Скопируйте ту сыллку заходите приожение нажимайте добавить и через буфер обмен друг не понятно посмотрите гайт 
-
-
-Почему надо нас выбрать быстро/шифрование/не блокированый/и на vless shandosks trojan/и очень много proxy
-
-<img width="1919" height="1079" alt="myvpnlistproxy" src="https://github.com/user-attachments/assets/6fca3f6b-0e6e-4c95-86d4-ec8cc36178bc" />          
-
 Поддержка1: https://t.me/free_connect_vpn_bot?start=6392863061
 
 Поддержка2: https://t.me/io_vpnbot?start=6392863061
 
-Поддержка3: https://t.me/vibevpntgbot?start=ref5231363734
+ПОКА БУДУ ОБНОВЛЯТЬ 
 
-поддержка4: https://t.me/truevpnrus_bot?start=ref6392863061
-
-поддержка5: https://t.me/vpnfiksbot?start=6392863061
-
-подддержка6: https://t.me/vpn_spacev_bot?start=KT0WM
-
-поддержка7: https://t.me/DureVpnBot?start=tJLJcCYoW
-
-поддердкой криптой системе ton: UQDdS3YT40aPceBsDHq6k7i434jGLFrvOFENfI4sUzoOhS9L
