@@ -18,3 +18,4 @@ vless://e200eeb5-3927-46e5-b9f2-b122138c18ba@92.62.251.69:443?flow=xtls-rprx-vis
 vless://37683bfe-403b-439f-94ae-6a88ecd0bb4c@31.129.22.73:8443?security=reality&type=tcp&headerType=&path=&host=&sni=vk.com&fp=chrome&pbk=Vv1q4PyigSLpfRXi52jI2sOliN6LmMig6-G04Rfr2Cw&sid=57031c65b8cdd4b2#LTE Португалия
 vless://594cfeb1-c0c5-4e26-99c3-cffb195f4c4e@41.216.182.6:8443?security=reality&type=tcp&headerType=&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Швеция
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.205:80?path=%2Fhjgfdws&security=none&encryption=none&host=m.vk.com&type=ws#LTE Великобритания2
+vless://b891257e-e0c3-4e75-9744-226b47a7d70f@188.166.78.72:34641?path=%2F&security=none&encryption=none&host=m.vk.com&type=ws#LTE 🇳🇱 Нидерланды3 👑
