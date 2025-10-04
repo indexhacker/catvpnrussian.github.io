@@ -6,6 +6,6 @@
 <img width="1919" height="1033" alt="Снимок экрана 2025-10-04 222343" src="https://github.com/user-attachments/assets/6834c61a-ff21-4bbd-a574-3a9f52af5050" />
 и сама подписка для (V2raytun V2box Hiddfly HashVpn):
 
-0:       https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/refs/heads/main/0.txt
+Нолевая   https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/refs/heads/main/0.txt#CatVpnRussian-0
 
  Подписки будут добавлятся!
