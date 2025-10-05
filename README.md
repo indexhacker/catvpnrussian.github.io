@@ -8,4 +8,4 @@
 
 Нолевая   https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/refs/heads/main/0.txt#CatVpnRussianPay
 
- Подписки будут добавлятся!
+Первая    https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/refs/heads/main/1.txt#CatVpnRussian-1
