@@ -14,8 +14,6 @@ vless://04f901bd-d235-4b3b-ac0f-d9b55dfa10c0@jp.ioio.pw:443?type=tcp&security=re
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 Финляндия1 👑⚡️
 vless://56deaa1a-d876-4462-8324-5b96b3aef7c8@46.33.10.106:8443?security=reality&encryption=none&pbk=gQ52CmhUsGctsRGIUWrTKSaih5RpMGABQv_-lzCdR2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=89852a0b# LTE Великобритания1
 vless://594cfeb1-c0c5-4e26-99c3-cffb195f4c4e@5.35.80.135:8443?security=reality&type=tcp&headerType=&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Казастан 
-vless://e200eeb5-3927-46e5-b9f2-b122138c18ba@92.62.251.69:443?flow=xtls-rprx-vision&fp=chrome&pbk=1KRoAJSX4HT_i-cBncA_qxPc-gVta6ATxVO1da_xN1A&security=reality&sid=6926dad4c99637&sni=105.pl&spx=%2F&type=tcp#Польша
-vless://37683bfe-403b-439f-94ae-6a88ecd0bb4c@31.129.22.73:8443?security=reality&type=tcp&headerType=&path=&host=&sni=vk.com&fp=chrome&pbk=Vv1q4PyigSLpfRXi52jI2sOliN6LmMig6-G04Rfr2Cw&sid=57031c65b8cdd4b2#LTE Португалия
 vless://594cfeb1-c0c5-4e26-99c3-cffb195f4c4e@41.216.182.6:8443?security=reality&type=tcp&headerType=&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Швеция
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.205:80?path=%2Fhjgfdws&security=none&encryption=none&host=m.vk.com&type=ws#LTE Великобритания2
 vless://b891257e-e0c3-4e75-9744-226b47a7d70f@188.166.78.72:34641?path=%2F&security=none&encryption=none&host=m.vk.com&type=ws#LTE 🇳🇱 Нидерланды3 👑
